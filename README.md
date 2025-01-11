@@ -7,7 +7,7 @@
   <li>🎓 I am a <strong>Computer Science</strong> student, passionate about <b>data engineering</b> and <b>web development</b>.</li>
   <li>📚 My main areas of interest include <strong>Cryptography</strong>, <strong>Data Structures</strong>, and <strong>Backend Development</strong>.</li>
   <li>🌱 I have experience working with cryptosystems, databases and am excited to explore fields such as web design and software design.</li>
-  <li>💼 Outside of development, I enjoy activities like sports, music and share moments with my family.</li>
+  <li>💼 Outside of development, I enjoy activities like sports, music and share moments with my family and my girlfriend.</li>
 </ul>
 
 
